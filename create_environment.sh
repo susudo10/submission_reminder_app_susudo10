@@ -42,8 +42,6 @@ cat > config/config.env << 'EOF'
 APP_NAME="Submission Reminder App"
 ASSIGNMENT="Data Structures Assignment"
 REMINDER_DAYS=3
-LOG_FILE="logs/reminder.log"
-DATA_FILE="data/submissions.txt"
 EOF
 
 # Create functions.sh file
